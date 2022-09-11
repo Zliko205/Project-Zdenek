@@ -1,0 +1,36 @@
+/*
+Body Settings background and next
+*/
+
+body{
+  background-color:blue;
+}
+
+/*
+h1 Settings
+*/
+
+h1{
+    color:black;
+}
+
+/*
+menu settings
+*/
+
+.Menu-Bio {
+  list-style-type: auto;
+  background-color: #999999;
+  padding-top: auto;
+  padding-bottom: auto;
+  padding-right: auto;
+  padding-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 800px;
+  margin-left: 20px;
+}
+
+.clearFix {
+  clear: both;
+}

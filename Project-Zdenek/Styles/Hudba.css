@@ -1,0 +1,43 @@
+/*
+Body Settings background and next
+*/
+
+body{
+  background-color:yellow;
+}
+
+/*
+h1 settings
+*/
+
+h1 {
+  color: blue;
+}
+
+/*
+nadpis písně Emil Zátopek
+*/
+
+h1{
+  color: grey;
+}
+
+/*
+menu settings
+*/
+
+.Menu-hudba {
+  list-style-type: auto;
+  background-color: #FF3333;
+  padding-top: auto;
+  padding-bottom: auto;
+  padding-right: auto;
+  padding-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 800px;
+  margin-left: 20px;
+}
+.clearFix {
+  clear: both;
+}
